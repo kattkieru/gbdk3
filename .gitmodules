@@ -1,0 +1,12 @@
+[submodule "gambatte"]
+	path = gambatte
+	url = https://github.com/kattkieru/gambatte.git
+[submodule "sdcc"]
+	path = sdcc
+	url = https://github.com/kattkieru/sdcc.git
+[submodule "sdl"]
+	path = sdl
+	url = https://github.com/kattkieru/sdl.git
+[submodule "boost"]
+	path = boost
+	url = https://github.com/kattkieru/boost.git
