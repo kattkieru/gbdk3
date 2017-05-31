@@ -1,12 +1,16 @@
 [submodule "gambatte"]
 	path = gambatte
 	url = https://github.com/kattkieru/gambatte.git
+	branch = master
 [submodule "sdcc"]
 	path = sdcc
 	url = https://github.com/kattkieru/sdcc.git
+	branch = master
 [submodule "sdl"]
 	path = sdl
 	url = https://github.com/kattkieru/sdl.git
+	branch = master
 [submodule "boost"]
 	path = boost
 	url = https://github.com/kattkieru/boost.git
+	branch = master
