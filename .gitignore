@@ -1,0 +1,11 @@
+.git
+bin
+bin/*
+build
+build/*
+share
+share/*
+tmp
+tmp/*
+src
+src/*
