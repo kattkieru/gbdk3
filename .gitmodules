@@ -14,3 +14,7 @@
 	path = boost
 	url = https://github.com/kattkieru/boost.git
 	branch = master
+[submodule "gbdk3_stdlib"]
+	path = gbdk3_stdlib
+	url = https://github.com/kattkieru/gbdk3_stdlib.git
+	branch = master
