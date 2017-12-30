@@ -18,3 +18,7 @@
 	path = gbdk3_stdlib
 	url = https://github.com/kattkieru/gbdk3_stdlib.git
 	branch = master
+[submodule "aslink-gb"]
+	path = aslink-gb
+	url = http://github.com/kattkieru/aslink-gb.git
+	branch = master
